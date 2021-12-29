@@ -1,0 +1,42 @@
+h1{
+    width: 500px;
+    margin: auto;
+    border: 2px dotted pink;
+    border-radius: 20px;
+    text-align: center;
+}
+p{
+    width: 360px;
+    border: 2px solid red;
+    margin: 20px ;
+    padding: 10px 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+h2{
+    width: 500px;
+    margin: auto;
+    border: 2px solid purple;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 20px purple;
+}
+h3{
+    width: 500px;
+    margin: auto;
+    border: 6px double palevioletred;
+    border-radius: 10px;
+    text-align: center;
+}
+ol, ul{
+    width: 340px;
+    border: 2px solid red;
+    margin: 20px ;
+    padding: 10px 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    border-bottom: 1px solid red;
+}
